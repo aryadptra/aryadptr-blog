@@ -5,16 +5,20 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Tentang",
       "url": "/about"
+    },
+    {
+      "name": "Portfolio",
+      "url": "/portfolio"
+    },
+    {
+      "name": "Kategori",
+      "url": "/categories"
     },
     {
       "name": "Tags",
       "url": "/tags"
-    },
-    {
-      "name": "Categories",
-      "url": "/categories"
     }
   ]
 }

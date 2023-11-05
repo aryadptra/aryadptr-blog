@@ -1,25 +1,25 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "Arya Dwi Putra ",
+    "base_url": "https://aryadwiputra.com",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logo": "https://s3.amazonaws.com/gndx.dev/ev0-astro-logo.png",
-    "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
+    "logo": "/favicon.png",
+    "lang": "id",
+    "description": "Saya seorang software developer yang fokus pada aplikasi berbasis web dan mobile. Saya bekerja sebagai Supervisor Programmer di sebuah perusahaan di Bogor.",
     "pageSize": 6
   },
   "features": {
-    "youtube": true,
+    "youtube": false,
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Arya Dwi Putra",
+    "meta_description": "Saya seorang software developer yang fokus pada aplikasi berbasis web dan mobile. Saya bekerja sebagai Supervisor Programmer di sebuah perusahaan di Bogor."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Arya Dwi Putra",
+    "avatar": "/profile-photo.png",
+    "bio": "Saya seorang software developer yang fokus pada aplikasi berbasis web dan mobile. Saya bekerja sebagai Supervisor Programmer di sebuah perusahaan di Bogor."
   }
 }
