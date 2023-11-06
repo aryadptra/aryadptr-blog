@@ -8,8 +8,6 @@ authors: ['Arya Dwi Putra']
 tags: ['php', 'basic', 'web', 'programming', 'beginner']
 ---
 
-# Panduan Lengkap PHP: Variabel, Tipe Data, Kondisional, Perulangan, dan Function
-
 PHP (Hypertext Preprocessor) adalah bahasa pemrograman yang populer dan sering digunakan untuk pengembangan web. PHP memiliki banyak fitur penting yang memungkinkan Anda untuk membuat situs web dinamis dan interaktif. Dalam artikel ini, kami akan membahas beberapa konsep dasar dalam PHP, termasuk variabel, tipe data, kondisional, perulangan, dan function.
 
 ## Variabel dalam PHP
