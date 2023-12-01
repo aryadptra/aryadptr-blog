@@ -2,7 +2,7 @@ export const createOgImage = ({ title, meta }: { title: string; meta: string }) 
   [
     // ACCOUNT PREFIX
     // Add your own Cloudinary account ID.
-    `https://res.cloudinary.com/<CLOUDINARY ID>/image/upload`,
+    `https://res.cloudinary.com/56d30d450e3d704fc659db650bebfd/image/upload`,
     // Composed Image Transformations
     `w_1600,h_836,q_100`,
     // TITLE
